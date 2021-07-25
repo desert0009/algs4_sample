@@ -7,11 +7,11 @@ Algorithm practices sample code in Python3
     * [fundamentals/evaluate.py](fundamentals/evaluate.py)
 
 #### Tree/Graph
-- Serialize and Deserialize Binary Tree
-    * [fundamentals/evaluate.py](graph/util_binary_tree.py)
-
 - Use BFS to get the level-order traversal
-    * [fundamentals/evaluate.py](graph/bfs.py)
+    * [graph/bfs.py](graph/bfs.py)
+
+- Serialize and Deserialize Binary Tree
+    * [graph/util_binary_tree.py](graph/util_binary_tree.py)
 
 #### Reference
 - [Introduction to Programming in Python](https://introcs.cs.princeton.edu/python/home/)
