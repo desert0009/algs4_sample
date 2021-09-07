@@ -1,6 +1,8 @@
 # Algs4 in Python3
 
-Algorithm and Data structure theories and practices code in Python3
+- Algorithm and Data structure theories
+- Practices code in Python3
+
 
 ## Python
 - Mutable vs Immutable Objects
@@ -37,7 +39,7 @@ Algorithm and Data structure theories and practices code in Python3
   print(l3) # [1, 2, [3, 5], 4]
   ```
 
-## Theory
+## Algorithm and Data structure
 
 #### Hash Table (dict())
 - Save items in a key-indexed table
