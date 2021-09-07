@@ -107,6 +107,6 @@ graph = {
 - #### [Union Find](union_find)
 
 
-#### Reference
+## Reference
 - [Introduction to Programming in Python](https://introcs.cs.princeton.edu/python/home/)
 - [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/home/)
